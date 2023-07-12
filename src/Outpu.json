@@ -1,0 +1,41 @@
+{
+    "totalArticles": 71375,
+    "articles": [
+        {
+            "title": "Swedish watchdog orders firms to stop using Google Analytics",
+            "description": "Four companies were ordered to stop using Google Analytics, as the Swedish authority joins claims the statistics tool breaches GDPR.",
+            "content": "The companies were ordered to stop using the tool, as the Swedish authority joins counterparts in Italy, France and Austria in claiming the use of Google Analytics breaches GDPR.\nA Swedish privacy authority has audited how four companies use Google A... [2515 chars]",
+            "url": "https://www.siliconrepublic.com/business/google-analytics-sweden-gdpr-eu-us-data",
+            "image": "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_358320154_Editorial_Use_Only.jpeg",
+            "publishedAt": "2023-07-04T08:23:38Z",
+            "source": {
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com"
+            }
+        },
+        {
+            "title": "Google to use any public info online to train AI chatbot Bard",
+            "description": "Despite having to delay the launch of Bard in the EU over privacy concerns, the latest policy update gives Google more power than before.",
+            "content": "Despite having to delay the launch of Bard in the EU over privacy concerns, the latest policy update gives Google more power than before.\nThe latest update to Google’s privacy policy includes a clause that allows the search giant to collect any infor... [2889 chars]",
+            "url": "https://www.siliconrepublic.com/business/google-privacy-policy-update-ai-model-scraping-public-info-bard",
+            "image": "https://www.siliconrepublic.com/wp-content/uploads/2023/04/AdobeStock_457468248_Editorial_Use_Only.jpeg",
+            "publishedAt": "2023-07-04T08:01:17Z",
+            "source": {
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com"
+            }
+        },
+        {
+            "title": "Amazon, Google, Apple, Meta, Microsoft say they meet EU gatekeeper status",
+            "description": "Alphabet's Google, Amazon , Apple , Meta Platforms and Microsoft have notified the European Commission that they qualify as gatekeepers under new EU tech rules, EU industry chief Thierry Breton said on Tuesday.",
+            "content": "BRUSSELS, July 4 (Reuters) - Alphabet's (GOOGL.O) Google, Amazon (AMZN.O), Apple (AAPL.O), Meta Platforms (META.O) and Microsoft (MSFT.O) have notified the European Commission that they qualify as gatekeepers under new EU tech rules, EU industry chie... [1373 chars]",
+            "url": "https://www.reuters.com/technology/amazon-google-apple-meta-microsoft-say-they-meet-eu-gatekeeper-status-2023-07-04/",
+            "image": "https://www.reuters.com/resizer/RqueJbDOrM7rPs0IylIMbLnOFMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XKNLILK6I5PZJIMIS4Y7EXDL5M.jpg",
+            "publishedAt": "2023-07-04T05:33:55Z",
+            "source": {
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            }
+        }
+    ]
+}
