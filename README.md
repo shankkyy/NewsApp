@@ -1,3 +1,12 @@
+
+
+
+
+
+https://github.com/shankkyy/NewsApp/assets/90105787/537913d2-201e-448f-9692-0d12e4d6a4eb
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
